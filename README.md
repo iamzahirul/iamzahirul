@@ -19,61 +19,9 @@ I design, run and analyse **surveys, impact evaluations and randomized controlle
 
 Outside research I build websites, MIS and management software. **82 of those platforms are live today.**
 
-### `$ ls ./stack`
+### `$ ls ./stack --bubbles`
 
-<p>
-  <b>Statistics &amp; analysis</b><br>
-  <img src="https://img.shields.io/badge/Stata-0d1117?style=for-the-badge" alt="Stata">
-  <img src="https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276DC3" alt="R">
-  <img src="https://img.shields.io/badge/SPSS-0d1117?style=for-the-badge" alt="SPSS">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=e70488" alt="pandas">
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4dabcf" alt="NumPy">
-  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Excel%20(advanced)%20%2F%20VBA-0d1117?style=for-the-badge" alt="Excel and VBA">
-</p>
-
-<p>
-  <b>Data collection</b><br>
-  <img src="https://img.shields.io/badge/SurveyCTO-0d1117?style=for-the-badge" alt="SurveyCTO">
-  <img src="https://img.shields.io/badge/ODK-0d1117?style=for-the-badge" alt="ODK">
-  <img src="https://img.shields.io/badge/KoboToolbox-0d1117?style=for-the-badge" alt="KoboToolbox">
-  <img src="https://img.shields.io/badge/Survey%20Solutions-0d1117?style=for-the-badge" alt="Survey Solutions">
-  <img src="https://img.shields.io/badge/CSPro-0d1117?style=for-the-badge" alt="CSPro">
-  <img src="https://img.shields.io/badge/SurveyMonkey-0d1117?style=for-the-badge&logo=surveymonkey&logoColor=00BF6F" alt="SurveyMonkey">
-</p>
-
-<p>
-  <b>Dashboards &amp; GIS</b><br>
-  <img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge" alt="Tableau">
-  <img src="https://img.shields.io/badge/Looker%20Studio-0d1117?style=for-the-badge&logo=looker&logoColor=4285F4" alt="Looker Studio">
-  <img src="https://img.shields.io/badge/ArcGIS-0d1117?style=for-the-badge&logo=arcgis&logoColor=2C7AC3" alt="ArcGIS">
-  <img src="https://img.shields.io/badge/QGIS-0d1117?style=for-the-badge&logo=qgis&logoColor=589632" alt="QGIS">
-  <img src="https://img.shields.io/badge/Google%20Earth-0d1117?style=for-the-badge&logo=googleearth&logoColor=4285F4" alt="Google Earth">
-</p>
-
-<p>
-  <b>Web, MIS &amp; software</b><br>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress">
-  <img src="https://img.shields.io/badge/WooCommerce-0d1117?style=for-the-badge&logo=woocommerce&logoColor=96588A" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/PWA-0d1117?style=for-the-badge&logo=pwa&logoColor=a78bfa" alt="PWA">
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge" alt="PowerShell">
-  <img src="https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=48a999" alt="LaTeX">
-</p>
-
-<p>
-  <b>Workflow &amp; design</b><br>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
-  <img src="https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Illustrator-0d1117?style=for-the-badge" alt="Illustrator">
-</p>
+<img src="./assets/stack.svg" width="100%" alt="Tech stack — Analysis: Stata, R, SPSS, Python, pandas, NumPy, Jupyter, Excel/VBA · Data collection: SurveyCTO, ODK, KoboToolbox, Survey Solutions, CSPro, SurveyMonkey · Dashboards & GIS: Power BI, Tableau, Looker Studio, ArcGIS, QGIS, Google Earth · Web & software: HTML5, CSS3, JavaScript, WordPress, WooCommerce, PWA, Vercel · Workflow & design: Git, GitHub, PowerShell, LaTeX, Figma, Photoshop, Illustrator">
 
 <p>
   <b>Methods</b><br>
