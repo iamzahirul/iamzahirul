@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="13+ years in research and evaluation, 107 research and evaluation assignments, 30+ international partners, 82 live web and software platforms">
+  <style>
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .card{opacity:0;animation:up .6s cubic-bezier(.2,.8,.2,1) forwards}
+    .c1{animation-delay:.1s}.c2{animation-delay:.25s}.c3{animation-delay:.4s}.c4{animation-delay:.55s}
+    @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    .bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.1s cubic-bezier(.2,.8,.2,1) forwards}
+    .c1 .bar{animation-delay:.5s}.c2 .bar{animation-delay:.65s}.c3 .bar{animation-delay:.8s}.c4 .bar{animation-delay:.95s}
+    @keyframes grow{to{transform:scaleX(1)}}
+    .scan{animation:scan 3.2s linear infinite}
+    @keyframes scan{from{transform:translateX(-120px)}to{transform:translateX(1120px)}}
+    @media (prefers-reduced-motion:reduce){.card{animation:none;opacity:1}.bar{animation:none;transform:none}.scan{display:none}}
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#39d353"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+    <linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity="0"/><stop offset=".5" stop-color="#58a6ff" stop-opacity=".12"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+    <clipPath id="clip"><rect width="1000" height="150"/></clipPath>
+  </defs>
+
+  <g transform="translate(0 0)"><g class="card c1">
+    <rect x="0.5" y="0.5" width="235" height="149" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="22" y="34" class="m" font-size="11" fill="#8b949e" letter-spacing="1.5">YEARS</text>
+    <text x="20" y="88" class="m" font-size="46" font-weight="700" fill="url(#g)">13+</text>
+    <text x="22" y="116" class="m" font-size="12" fill="#8b949e">research &amp; evaluation</text>
+    <rect class="bar" x="22" y="132" width="190" height="3" rx="1.5" fill="url(#g)"/>
+  </g></g>
+  <g transform="translate(255 0)"><g class="card c2">
+    <rect x="0.5" y="0.5" width="235" height="149" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="22" y="34" class="m" font-size="11" fill="#8b949e" letter-spacing="1.5">ASSIGNMENTS</text>
+    <text x="20" y="88" class="m" font-size="46" font-weight="700" fill="url(#g)">107</text>
+    <text x="22" y="116" class="m" font-size="12" fill="#8b949e">surveys, RCTs, evaluations</text>
+    <rect class="bar" x="22" y="132" width="190" height="3" rx="1.5" fill="url(#g)"/>
+  </g></g>
+  <g transform="translate(510 0)"><g class="card c3">
+    <rect x="0.5" y="0.5" width="235" height="149" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="22" y="34" class="m" font-size="11" fill="#8b949e" letter-spacing="1.5">PARTNERS</text>
+    <text x="20" y="88" class="m" font-size="46" font-weight="700" fill="url(#g)">30+</text>
+    <text x="22" y="116" class="m" font-size="12" fill="#8b949e">universities, UN, NGOs</text>
+    <rect class="bar" x="22" y="132" width="190" height="3" rx="1.5" fill="url(#g)"/>
+  </g></g>
+  <g transform="translate(765 0)"><g class="card c4">
+    <rect x="0.5" y="0.5" width="234" height="149" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="22" y="34" class="m" font-size="11" fill="#8b949e" letter-spacing="1.5">LIVE SYSTEMS</text>
+    <text x="20" y="88" class="m" font-size="46" font-weight="700" fill="url(#g)">82</text>
+    <text x="22" y="116" class="m" font-size="12" fill="#8b949e">web, MIS &amp; software</text>
+    <rect class="bar" x="22" y="132" width="190" height="3" rx="1.5" fill="url(#g)"/>
+    <circle cx="212" cy="30" r="4" fill="#39d353"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  </g></g>
+  <g clip-path="url(#clip)"><rect class="scan" x="0" y="0" width="120" height="150" fill="url(#sweep)"/></g>
+</svg>

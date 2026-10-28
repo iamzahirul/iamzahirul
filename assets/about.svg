@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" width="1000" height="430" role="img" aria-label="About Zahirul Islam, written as a code object: role, base, organisations, experience, focus, stack, partners, education and side work">
+  <style>
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:15px}
+    .n{fill:#484f58}.k{fill:#ff7b72}.v{fill:#d2a8ff}.p{fill:#79c0ff}.s{fill:#a5d6ff}.c{fill:#8b949e;font-style:italic}.t{fill:#c9d1d9}.o{fill:#ffa657}
+    .l{opacity:0;animation:in .45s ease-out forwards}
+    @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+    .l1{animation-delay:.3s}.l2{animation-delay:.55s}.l3{animation-delay:.8s}.l4{animation-delay:1.05s}.l5{animation-delay:1.3s}.l6{animation-delay:1.55s}.l7{animation-delay:1.8s}.l8{animation-delay:2.05s}.l9{animation-delay:2.3s}.l10{animation-delay:2.55s}.l11{animation-delay:2.8s}.l12{animation-delay:3.05s}.l13{animation-delay:3.3s}.l14{animation-delay:3.55s}
+    .cur{animation:blink 1s steps(1) infinite 3.8s;opacity:0}
+    @keyframes blink{0%{opacity:1}50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.cur{animation:none;opacity:1}}
+  </style>
+  <defs><clipPath id="f"><rect width="1000" height="430" rx="14"/></clipPath></defs>
+  <g clip-path="url(#f)">
+    <rect width="1000" height="430" fill="#0d1117"/>
+    <rect width="1000" height="36" fill="#161b22"/>
+    <rect x="0" y="36" width="56" height="394" fill="#0b0f14"/>
+    <circle cx="24" cy="18" r="6" fill="#ff5f56"/><circle cx="44" cy="18" r="6" fill="#ffbd2e"/><circle cx="64" cy="18" r="6" fill="#27c93f"/>
+    <rect x="96" y="6" width="130" height="30" rx="6" fill="#0d1117"/>
+    <text x="112" y="26" class="m" font-size="12" fill="#c9d1d9" style="font-size:12px">about.ts</text>
+    <text x="976" y="24" text-anchor="end" class="m" style="font-size:11px" fill="#484f58">UTF-8 · TypeScript</text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="429" rx="14" fill="none" stroke="#30363d"/>
+
+  <g class="m">
+    <g class="l l1"><text x="40" y="72" text-anchor="end" class="n">1</text><text x="74" y="72"><tspan class="k">const</tspan><tspan class="v"> zahirul</tspan><tspan class="t"> = {</tspan></text></g>
+    <g class="l l2"><text x="40" y="98" text-anchor="end" class="n">2</text><text x="74" y="98" xml:space="preserve"><tspan class="p">  role</tspan><tspan class="t">:       </tspan><tspan class="s">"Senior Research, MEAL &amp; MIS Specialist"</tspan><tspan class="t">,</tspan></text></g>
+    <g class="l l3"><text x="40" y="124" text-anchor="end" class="n">3</text><text x="74" y="124" xml:space="preserve"><tspan class="p">  base</tspan><tspan class="t">:       </tspan><tspan class="s">"Dhaka, Bangladesh"</tspan><tspan class="t">,</tspan></text></g>
+    <g class="l l4"><text x="40" y="150" text-anchor="end" class="n">4</text><text x="74" y="150" xml:space="preserve"><tspan class="p">  orgs</tspan><tspan class="t">:       [</tspan><tspan class="s">"ARCED Foundation"</tspan><tspan class="t">, </tspan><tspan class="s">"ARCED International"</tspan><tspan class="t">],</tspan></text></g>
+    <g class="l l5"><text x="40" y="176" text-anchor="end" class="n">5</text><text x="74" y="176" xml:space="preserve"><tspan class="p">  record</tspan><tspan class="t">:     { years: </tspan><tspan class="o">13</tspan><tspan class="t">, studies: </tspan><tspan class="o">107</tspan><tspan class="t">, partners: </tspan><tspan class="o">30</tspan><tspan class="t">, liveSystems: </tspan><tspan class="o">82</tspan><tspan class="t"> },</tspan></text></g>
+    <g class="l l6"><text x="40" y="202" text-anchor="end" class="n">6</text><text x="74" y="202" xml:space="preserve"><tspan class="p">  methods</tspan><tspan class="t">:    [</tspan><tspan class="s">"RCTs"</tspan><tspan class="t">, </tspan><tspan class="s">"impact evaluation"</tspan><tspan class="t">, </tspan><tspan class="s">"tracer"</tspan><tspan class="t">, </tspan><tspan class="s">"audit studies"</tspan><tspan class="t">, </tspan><tspan class="s">"CATI"</tspan><tspan class="t">],</tspan></text></g>
+    <g class="l l7"><text x="40" y="228" text-anchor="end" class="n">7</text><text x="74" y="228" xml:space="preserve"><tspan class="p">  collect</tspan><tspan class="t">:    [</tspan><tspan class="s">"SurveyCTO"</tspan><tspan class="t">, </tspan><tspan class="s">"ODK"</tspan><tspan class="t">, </tspan><tspan class="s">"KoboToolbox"</tspan><tspan class="t">, </tspan><tspan class="s">"Survey Solutions"</tspan><tspan class="t">, </tspan><tspan class="s">"CSPro"</tspan><tspan class="t">],</tspan></text></g>
+    <g class="l l8"><text x="40" y="254" text-anchor="end" class="n">8</text><text x="74" y="254" xml:space="preserve"><tspan class="p">  analyse</tspan><tspan class="t">:    [</tspan><tspan class="s">"Stata"</tspan><tspan class="t">, </tspan><tspan class="s">"R"</tspan><tspan class="t">, </tspan><tspan class="s">"Python"</tspan><tspan class="t">, </tspan><tspan class="s">"SPSS"</tspan><tspan class="t">, </tspan><tspan class="s">"Power BI"</tspan><tspan class="t">, </tspan><tspan class="s">"ArcGIS"</tspan><tspan class="t">, </tspan><tspan class="s">"QGIS"</tspan><tspan class="t">],</tspan></text></g>
+    <g class="l l9"><text x="40" y="280" text-anchor="end" class="n">9</text><text x="74" y="280" xml:space="preserve"><tspan class="p">  build</tspan><tspan class="t">:      [</tspan><tspan class="s">"HTML/CSS"</tspan><tspan class="t">, </tspan><tspan class="s">"JavaScript"</tspan><tspan class="t">, </tspan><tspan class="s">"WordPress"</tspan><tspan class="t">, </tspan><tspan class="s">"WooCommerce"</tspan><tspan class="t">, </tspan><tspan class="s">"PWA"</tspan><tspan class="t">, </tspan><tspan class="s">"Vercel"</tspan><tspan class="t">],</tspan></text></g>
+    <g class="l l10"><text x="40" y="306" text-anchor="end" class="n">10</text><text x="74" y="306" xml:space="preserve"><tspan class="p">  partners</tspan><tspan class="t">:   [</tspan><tspan class="s">"World Bank"</tspan><tspan class="t">, </tspan><tspan class="s">"UC San Diego"</tspan><tspan class="t">, </tspan><tspan class="s">"Stanford"</tspan><tspan class="t">, </tspan><tspan class="s">"IFPRI"</tspan><tspan class="t">, </tspan><tspan class="s">"ILO"</tspan><tspan class="t">, </tspan><tspan class="s">"USAID"</tspan><tspan class="t">, </tspan><tspan class="c">/* +24 */</tspan><tspan class="t">],</tspan></text></g>
+    <g class="l l11"><text x="40" y="332" text-anchor="end" class="n">11</text><text x="74" y="332" xml:space="preserve"><tspan class="p">  education</tspan><tspan class="t">:  </tspan><tspan class="s">"Professional Master of Development Studies, Jagannath University"</tspan><tspan class="t">,</tspan></text></g>
+    <g class="l l12"><text x="40" y="358" text-anchor="end" class="n">12</text><text x="74" y="358" xml:space="preserve"><tspan class="p">  alias</tspan><tspan class="t">:      </tspan><tspan class="s">"Rasel"</tspan><tspan class="t">,</tspan></text></g>
+    <g class="l l13"><text x="40" y="384" text-anchor="end" class="n">13</text><text x="74" y="384"><tspan class="t">};</tspan></text></g>
+    <g class="l l14"><text x="40" y="410" text-anchor="end" class="n">14</text><text x="74" y="410"><tspan class="c">// open to research, evaluation, MEAL &amp; data-system work — iamzahirul.com</tspan></text></g>
+    <rect class="cur" x="770" y="397" width="9" height="17" fill="#39d353"/>
+  </g>
+</svg>
