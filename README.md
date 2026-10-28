@@ -1,4 +1,4 @@
-<a href="https://iamzahirul.com"><img src="./assets/header.svg" width="100%" alt="Zahirul Islam — Senior Research, MEAL & MIS Specialist. 13+ years, 107 studies, 30+ partners, 82 live systems."></a>
+<a href="https://iamzahirul.com"><img src="./assets/header.svg?v=2" width="100%" alt="Zahirul Islam — Senior Research, MEAL & MIS Specialist. 13+ years, 107 studies, 30+ partners, 82 live systems."></a>
 
 <p align="center">
   <a href="https://iamzahirul.com"><img src="https://img.shields.io/badge/iamzahirul.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" alt="Website"></a>
